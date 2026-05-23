@@ -15,8 +15,3 @@
 ![](https://streak-stats.demolab.com/?user=shashatgit&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashatgit&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
